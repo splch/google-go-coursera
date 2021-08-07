@@ -7,4 +7,4 @@ Coursera's Google Go Specialization
 3. [Concurrency in Go](https://www.coursera.org/verify/QXBPMJJ3RWFJ)
 
 ## Specialization
-[Programming with Google Go](https://www.coursera.org/verify/XGRTHRAFKXEG)
+[Programming with Google Go](https://www.coursera.org/account/accomplishments/specialization/XGRTHRAFKXEG)
